@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, my name is Ans Raza 
+
+I'm studying computer science at Gomal University in DG Khan,Pk. I love what I study and am developing my skills so I can start a career in software development!  
+
