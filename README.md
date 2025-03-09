@@ -20,6 +20,6 @@ I'm studying computer science at Gomal University in DG Khan,Pk. I love what I s
 
 ## 📊 **GitHub Stats and Activity**
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetesla51&hide_progress=true&theme=github_dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=github_dark&count_private=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xansr&hide_progress=true&theme=github_dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=github_dark&count_private=true) |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=codetesla51&theme=github_dark&hide_border=true)            
+| ![GitHub Streak](https://streak-stats.demolab.com?user=0xansr&theme=github_dark&hide_border=true)            
