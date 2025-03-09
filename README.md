@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **0xAnsR/0xAnsR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -107,5 +107,4 @@ If you appreciate my work, consider supporting me:
 
 Thank you for visiting my profile! 🚀
 
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0xAnsR)](https://github.com/0xAnsR/github-readme-stats)
+[![0xAnsR's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0xAnsR)](https://github.com/anuraghazra/github-readme-stats)
