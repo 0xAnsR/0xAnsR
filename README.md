@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 I'm studying computer science at Gomal University in DG Khan,Pk. I love what I study and am developing my skills so I can start a career in software development!  
 
-## 📊 **GitHub Stats and Activity**
-
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xansr&hide_progress=true&theme=github_dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetesla51&show_icons=true&theme=github_dark&count_private=true) |
-|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=0xansr&theme=github_dark&hide_border=true)            
+<a href="https://github.com/0xAnsR">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=0xAnsR" />
+</a>
+<a href="https://github.com/0xAnsR">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnsR&layout=compact&langs_count=8" />
+</a>           
