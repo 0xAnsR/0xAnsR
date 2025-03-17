@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, my name is Ans Raza 
+# 👋 Welcome to 0xAnsR's GitHub Profile
 
-I'm studying computer science at Gomal University in DG Khan,Pk. I love what I study and am developing my skills so I can start a career in software development!  
+I'm studying computer science at Gomal University 
+I love what I study and am developing my skills so I can start a career in software development!  
 
 
 <a href="https://github.com/0xAnsR">
@@ -27,7 +28,7 @@ I'm studying computer science at Gomal University in DG Khan,Pk. I love what I s
 </a>
 
 
-# 👋 Welcome to 0xAnsR's GitHub Profile
+
 
 ## About Me
 - **Name**: Ans Raza
